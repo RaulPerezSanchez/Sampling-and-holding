@@ -6,7 +6,7 @@ Hardware needed:
 * 8-bit R2R Digital to analog converter.
 * Arduino uno or nano board.
 * Sampling and holding circuit.
-* An oscilloscope to see the sampled waveforms if you want to, but they can also be printed on the serial monitor.
+* An oscilloscope to see the sampled waveforms.
 
 Software needed:
 
