@@ -1,5 +1,5 @@
 # Samping-and-holding
-<scr = https://tutorialspoint.dev/image/n5.jpg>
+
 This repo demonstrates how to sample an analog signal  before it gets quantified. By using the arduino IDE to create a script that outputs a sine, ramp or triangular waveforms that will be sampled via an S/H circuit.
 
 Hardware needed:
