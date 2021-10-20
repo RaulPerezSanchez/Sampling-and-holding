@@ -13,4 +13,4 @@ Software needed:
 
 * Arduino IDE.
 
-The schematics are attached on this repository.
+The schematics are attached in this repository.
